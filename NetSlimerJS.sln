@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetSlimerJS", "NetSlimerJS\NetSlimerJS.csproj", "{B1DB95CD-9A9C-4EDA-A24F-43B118F42A7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{B62379CA-5E0F-4A7F-AA57-6A5375EA04DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetSlimerJSTests", "NetSlimerJSTests\NetSlimerJSTests.csproj", "{91092E1E-3332-4A01-B882-4CC4662A9335}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1DB95CD-9A9C-4EDA-A24F-43B118F42A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1DB95CD-9A9C-4EDA-A24F-43B118F42A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1DB95CD-9A9C-4EDA-A24F-43B118F42A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1DB95CD-9A9C-4EDA-A24F-43B118F42A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B62379CA-5E0F-4A7F-AA57-6A5375EA04DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62379CA-5E0F-4A7F-AA57-6A5375EA04DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62379CA-5E0F-4A7F-AA57-6A5375EA04DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62379CA-5E0F-4A7F-AA57-6A5375EA04DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91092E1E-3332-4A01-B882-4CC4662A9335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91092E1E-3332-4A01-B882-4CC4662A9335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91092E1E-3332-4A01-B882-4CC4662A9335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91092E1E-3332-4A01-B882-4CC4662A9335}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
