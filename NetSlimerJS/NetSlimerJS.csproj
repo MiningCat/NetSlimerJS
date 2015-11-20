@@ -279,6 +279,7 @@
       <Link>SlimerJS\slimerjs.bat</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <None Include="NetSlimerJS.0.3.0.nuspec" />
     <None Include="packages.config" />
     <None Include="Slimer license" />
   </ItemGroup>

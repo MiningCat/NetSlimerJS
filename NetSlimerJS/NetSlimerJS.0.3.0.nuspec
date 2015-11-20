@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>NetSlimerJS</id>
+        <version>0.3.0</version>
+        <title>NetSlimerJS</title>
+        <authors>Duke, Sined</authors>
+        <owners>Duke, Sined</owners>
+        <projectUrl>https://github.com/MiningCat/NetSlimerJS</projectUrl>
+        <iconUrl>https://slimerjs.org/assets/img/glouton-boyEntete100.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <developmentDependency>true</developmentDependency>
+        <description>SlimerJs runner for .Net</description>
+        <tags>SlimerJS PhantomJS Gecko Web Testing UI Javascript JS Browser</tags>
+        <dependencies>
+            <dependency id="SlimerJS" version="0.9.6.1" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="bin\Release\NetSlimerJS.dll" target="lib\net452\NetSlimerJS.dll" />
+        <file src="bin\Release\NetSlimerJS.pdb" target="lib\net452\NetSlimerJS.pdb" />
+    </files>
+</package>
